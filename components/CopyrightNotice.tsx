@@ -8,6 +8,6 @@ export default function CopyrightNotice() {
         </a>
         All content on this page unless otherwise noted is released under the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" className={blueLink}>CC-BY-SA 4.0</a> license, meaning as long as you attribute this site with a proper link and re-distribute it under the same license, you are free to use this content in any way.
 
-        <br />The license for the code in this site is located <a href="https://github.com/Thundercraft5/thundercraft5.github.io/blob/main/LICENSE" className={blueLink}>here</a>.
+        <br />The license for the code in this site is located <a href="https://github.com/wufan337/wufan337.github.io/blob/main/LICENSE" className={blueLink}>here</a>.
     </div>
 }
