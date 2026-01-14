@@ -10,7 +10,7 @@ export default function Footer({ date, created }: { date?: string, created?: str
             {date && <li><span className={lastUpdated}>🖋 This page was last updated on <b>{date}</b></span></li>}
             {created && <li><span className={lastUpdated}>🖋 This page was created on <b>{created}</b></span></li>}
             <li><CopyrightNotice /></li>
-            <li className={flexRow}><Links /><Tools /></li>
+            {/* <li className={flexRow}><Links /><Tools /></li> */}
         </ul>
     </footer>
 }

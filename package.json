@@ -1,13 +1,13 @@
 {
-	"name": "@thundercraft5.github.io/root",
+	"name": "wufan337.github.io",
 	"description": "A personal site containing my various projects. If you have any issues/suggestions please open an issue, contributions are welcome and encouraged!",
-	"homepage": "https://github.com/Thundercraft5/thundercraft5.github.io#readme",
+	"homepage": "https://github.com/wufan337/wufan337.github.io#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Thundercraft5/thundercraft5.github.io.git"
+		"url": "git+https://github.com/wufan337/wufan337.github.io.git"
 	},
 	"bugs": {
-		"url": "https://github.com/Thundercraft5/thundercraft5.github.io/issues"
+		"url": "https://github.com/wufan337/wufan337.github.io/issues"
 	},
 	"packageManager": "pnpm@10.25.0",
 	"private": true,

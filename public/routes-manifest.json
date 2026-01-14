@@ -3,14 +3,14 @@
     "path": "pages\\about.mdx",
     "frontmatter": {
       "title": "About Me",
-      "description": "Learn more about Thundercraft5, my journey as a developer and regenerative farmer and my interests.",
+      "description": "",
       "last-updated": "2025-11-07T00:00:00.000Z",
       "created": "2025-04-20T00:00:00.000Z"
     },
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/about",
@@ -29,7 +29,7 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/blog",
@@ -37,8 +37,8 @@
       ]
     ]
   },
-  "/blog/posts/2025/11/07.2": {
-    "path": "pages\\blog\\posts\\2025\\11\\07.2.mdx",
+  "/blog/posts/2026/01/15": {
+    "path": "pages\\blog\\posts\\2026\\01\\15.mdx",
     "frontmatter": {
       "title": "First blog post",
       "description": "This is my first blog post created on November 7, 2025.",
@@ -48,105 +48,15 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/blog",
         "Blog"
       ],
       [
-        "/blog/posts/2025",
-        "2025 Posts"
-      ],
-      [
-        "/blog/posts/2025/11/07.2",
+        "/blog/posts/2026/01/15",
         "First blog post"
-      ]
-    ]
-  },
-  "/blog/posts/2025/11/07.3": {
-    "path": "pages\\blog\\posts\\2025\\11\\07.3.mdx",
-    "frontmatter": {
-      "title": "Reflecting on my first WWOOF trip",
-      "description": "Sharing my experiences and lessons learned from my initial WWOOF adventure.",
-      "created": "2025-11-07T00:00:00.000Z",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "image": {
-        "path": "/blog/images/2025/11/07.3/valley.png",
-        "width": 400,
-        "height": 300,
-        "caption": "Looking over Tappen Bluff",
-        "credit": "Myself"
-      }
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/blog",
-        "Blog"
-      ],
-      [
-        "/blog/posts/2025",
-        "2025 Posts"
-      ],
-      [
-        "/blog/posts/2025/11/07.3",
-        "Reflecting on my first WWOOF trip"
-      ]
-    ]
-  },
-  "/blog/posts/2025": {
-    "path": "pages\\blog\\posts\\2025\\index.mdx",
-    "frontmatter": {
-      "title": "2025 Posts",
-      "description": "A collection of blog posts from the year 2025.",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "created": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/blog",
-        "Blog"
-      ],
-      [
-        "/blog/posts/2025",
-        "2025 Posts"
-      ]
-    ]
-  },
-  "/blog/posts/2026/01/11": {
-    "path": "pages\\blog\\posts\\2026\\01\\11.mdx",
-    "frontmatter": {
-      "title": "The Inflation of Meta-Knowledge and Lack of Wisdom: Notes which note notes of notes which note nothing",
-      "description": "The Dark Side of note-taking apps and the endless pursuit of empty meta-knowledge and meta-notes, without wisdom.",
-      "last-updated": "2026-01-11T06:00:00.000Z",
-      "created": "2026-01-11T06:00:00.000Z",
-      "image": {
-        "path": "/blog/images/2026/01/11/obsidian-logo-and-name-on-an-obsidian-background-and-some-white-dots (1).avif",
-        "width": 400,
-        "height": 300,
-        "caption": "Credit: Obsidian"
-      }
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/blog",
-        "Blog"
-      ],
-      [
-        "/blog/posts/2026/01/11",
-        "The Inflation of Meta-Knowledge and Lack of Wisdom: Notes which note notes of notes which note nothing"
       ]
     ]
   },
@@ -161,7 +71,7 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/example",
@@ -169,60 +79,22 @@
       ]
     ]
   },
-  "/farming": {
-    "path": "pages\\farming.mdx",
-    "frontmatter": {
-      "title": "Farming",
-      "description": "Explore my thoughts and projects related to sustainable and regenerative farming.",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "created": "2025-04-20T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/farming",
-        "Farming"
-      ]
-    ]
-  },
-  "/fhe": {
-    "path": "pages\\fhe.mdx",
-    "frontmatter": {
-      "title": "Fully Homomorphic Encryption",
-      "description": "An introduction to Fully Homomorphic Encryption (FHE), its principles, applications, and significance in modern cryptography.",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "created": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/fhe",
-        "Fully Homomorphic Encryption"
-      ]
-    ]
-  },
   "/": {
     "path": "pages\\index.mdx",
     "frontmatter": {
-      "title": "Thundercraft5's Homepage",
-      "description": "Thundercraft5's personal website showcasing projects, interests, and open-source contributions.",
+      "title": "Wufan337's Homepage",
+      "description": "Wufan337's personal website showcasing projects, interests, and open-source contributions.",
       "last-updated": "2025-11-07T00:00:00.000Z",
       "created": "2025-04-20T00:00:00.000Z"
     },
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ]
     ]
   },
@@ -237,36 +109,11 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/packages",
         "Packages"
-      ]
-    ]
-  },
-  "/packages/YoutubeFullscreen": {
-    "path": "pages\\packages\\YoutubeFullscreen.mdx",
-    "frontmatter": {
-      "title": "YoutubeFullscreen",
-      "description": "A small utility to open YouTube videos in a fullscreen overlay/window.",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "created": "2025-11-07T00:00:00.000Z",
-      "package": "YoutubeFullscreen",
-      "repo": "https://github.com/Thundercraft5/YoutubeFullscreen"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/packages",
-        "Packages"
-      ],
-      [
-        "/packages/YoutubeFullscreen",
-        "YoutubeFullscreen"
       ]
     ]
   },
@@ -281,80 +128,11 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/philosophy",
         "My Philosophy"
-      ]
-    ]
-  },
-  "/projects/CannonballBox": {
-    "path": "pages\\projects\\CannonballBox\\index.mdx",
-    "frontmatter": {
-      "title": "CannonballBox",
-      "description": "A physics simulation of projectile motion with adjustable parameters.",
-      "created": "2025-04-20T00:00:00.000Z",
-      "last-updated": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/projects",
-        "My Projects"
-      ],
-      [
-        "/projects/CannonballBox",
-        "CannonballBox"
-      ]
-    ]
-  },
-  "/projects/CanvasDots": {
-    "path": "pages\\projects\\CanvasDots\\index.mdx",
-    "frontmatter": {
-      "title": "CanvasDots",
-      "description": "A node visualization project using HTML5 Canvas",
-      "last-updated": "11-07-25",
-      "created": "04-20-25"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/projects",
-        "My Projects"
-      ],
-      [
-        "/projects/CanvasDots",
-        "CanvasDots"
-      ]
-    ]
-  },
-  "/projects/ESlintEditor": {
-    "path": "pages\\projects\\ESlintEditor\\index.mdx",
-    "frontmatter": {
-      "title": "ESlintEditor",
-      "description": "An experiment hosting ESLint in monaco Editor on the web",
-      "created": "11-07-2025",
-      "last-updated": "11-07-2025"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/projects",
-        "My Projects"
-      ],
-      [
-        "/projects/ESlintEditor",
-        "ESlintEditor"
       ]
     ]
   },
@@ -369,57 +147,11 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/projects",
         "My Projects"
-      ]
-    ]
-  },
-  "/projects/InfectionTable": {
-    "path": "pages\\projects\\InfectionTable\\index.mdx",
-    "frontmatter": {
-      "title": "InfectionTable",
-      "description": "Table for modelling spreading table cells",
-      "created": "2025-04-20T00:00:00.000Z",
-      "last-updated": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/projects",
-        "My Projects"
-      ],
-      [
-        "/projects/InfectionTable",
-        "InfectionTable"
-      ]
-    ]
-  },
-  "/projects/MinMaxFinder": {
-    "path": "pages\\projects\\MinMaxFinder\\index.mdx",
-    "frontmatter": {
-      "title": "MinMaxFinder",
-      "description": "An experiment with various mathematical graphing tools and libraries",
-      "created": "2025-04-20T00:00:00.000Z",
-      "last-updated": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Thundercraft5's Homepage"
-      ],
-      [
-        "/projects",
-        "My Projects"
-      ],
-      [
-        "/projects/MinMaxFinder",
-        "MinMaxFinder"
       ]
     ]
   },
@@ -434,7 +166,7 @@
     "breadcrumbs": [
       [
         "/",
-        "Thundercraft5's Homepage"
+        "Wufan337's Homepage"
       ],
       [
         "/work",
