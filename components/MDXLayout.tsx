@@ -12,7 +12,7 @@ export default function MDXLayout({
     return (
         <>
             <Head>
-                <title>{frontmatter?.title || 'Thundercraft5'}</title>
+                <title>{frontmatter?.title || 'wufan337'}</title>
             </Head>
             {children}
         </>

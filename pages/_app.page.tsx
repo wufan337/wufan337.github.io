@@ -52,7 +52,7 @@ export default function App({ Component, pageProps, router, ...d }: AppProps) {
       break;
   }
 
-  const pageTitle = fm?.title ? fm.title + ' - thundercraft5.github.io' : 'thundercraft5.github.io'
+  const pageTitle = fm?.title ? fm.title + ' - wufan337.github.io' : 'wufan337.github.io'
   console.log(router);
 
   return (
@@ -64,7 +64,7 @@ export default function App({ Component, pageProps, router, ...d }: AppProps) {
         <meta name="google-site-verification" content="6uW4e_9-NPFLASD-TLV4cjbbNOb9lptKjdJB8ibxsmg" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={fm?.["description"] || ""} />
-        <meta property="og:url" content={"https://thundercraft5.github.io" + router.pathname} />
+        <meta property="og:url" content={"https://wufan337.github.io" + router.pathname} />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/resources/images/Logo.png" />
 

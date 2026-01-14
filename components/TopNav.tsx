@@ -13,11 +13,11 @@ export function TopNav() {
                         <img src="/resources/images/Logo.png" className={headerImage} />
                     </a>
                     <div className={headerTextContainer}>
-                        <div className={headerText}><a href="/" className={blackLink}><code>wufan337    .github.io</code></a></div>
+                        <div className={headerText}><a href="/" className={blackLink}><code>wufan337.github.io</code></a></div>
                     </div>
                 </div>
                 <div className={navMenu}>
-                    {/* <div className={topNavMenu}>
+                    <div className={topNavMenu}>
                         <span><a className={blackLink} href="/projects">Projects</a></span>
                         <ul className={topNavMenuDropdown}>{
                             Object.entries(projects).map(([group, members]) => {
@@ -40,7 +40,7 @@ export function TopNav() {
                                     }</ul></li>
                             })
                         }</ul>
-                    </div> */}
+                    </div>
                     {/* <div className={topNavMenu}>
                         <span><a className={blackLink} href="/packages">Packages</a></span>
 

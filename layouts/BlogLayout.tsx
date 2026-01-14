@@ -33,7 +33,7 @@ export default function BlogLayout({ children, frontmatter }: BlogLayoutProps) {
     }
 
     const pageTitle = frontmatter?.title
-        ? `${frontmatter.title} | Thundercraft5 Blog`
+        ? `${frontmatter.title} | wufan337 Blog`
         : 'Blog';
 
     return (

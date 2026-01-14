@@ -54,7 +54,7 @@ async function writeManifest() {
 }
 
 async function generateSitemaps(routeMap: Record<string, any>) {
-  const SITE_URL = process.env.SITE_URL ?? 'https://thundercraft5.github.io';
+  const SITE_URL = process.env.SITE_URL ?? 'https://wufan337.github.io';
 
   const urls: Array<{ loc: string; lastmod?: string; description?: string }> = [];
 

@@ -18,17 +18,16 @@ const nextConfig: NextConfig = {
   eslint: {
     "ignoreDuringBuilds": true
   },
-  "allowedDevOrigins": ["172.29.112.1", "localhost"],
+  "allowedDevOrigins": ["10.0.0.125", "localhost"],
   experimental: {
     // nextScriptWorkers: true,
-    // mdxRs must be false to use remark/rehype plugins
+    // mdxRs must be false to use remark/rehype plugins   
     mdxRs: false,
     // ⚠️ Do NOT include 'turbo: {}' here. It is deprecated and causes validation errors.
   },
 };
 
-const withMDX = createMDX({
-
+const withMDX = createMDX({   
   extension: /\.mdx?$/,
   options: {
     remarkPlugins: [
