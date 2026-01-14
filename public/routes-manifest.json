@@ -117,25 +117,6 @@
       ]
     ]
   },
-  "/philosophy": {
-    "path": "pages\\philosophy.mdx",
-    "frontmatter": {
-      "title": "My Philosophy",
-      "description": "An overview of my personal philosophy and beliefs.",
-      "last-updated": "2025-11-07T00:00:00.000Z",
-      "created": "2025-04-20T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Wufan337's Homepage"
-      ],
-      [
-        "/philosophy",
-        "My Philosophy"
-      ]
-    ]
-  },
   "/projects": {
     "path": "pages\\projects\\index.mdx",
     "frontmatter": {
@@ -152,25 +133,6 @@
       [
         "/projects",
         "My Projects"
-      ]
-    ]
-  },
-  "/work": {
-    "path": "pages\\work.mdx",
-    "frontmatter": {
-      "title": "My Work",
-      "description": "My work and contributions in open-source projects, including scripts, tools, and more.",
-      "created": "2025-04-20T00:00:00.000Z",
-      "last-updated": "2025-11-07T00:00:00.000Z"
-    },
-    "breadcrumbs": [
-      [
-        "/",
-        "Wufan337's Homepage"
-      ],
-      [
-        "/work",
-        "My Work"
       ]
     ]
   }
