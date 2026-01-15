@@ -90,7 +90,7 @@
 	"version": "1.0.0",
 	"main": "index.js",
 	"scripts": {
-		"dev": "concurrently \"next dev --turbo -p 5000\" \"pnpm run dev:manifest\"",
+		"dev": "concurrently \"next dev --turbo -p 3000\" \"pnpm run dev:manifest\"",
 		"dev:manifest": "node ./scripts/generate-site-data.ts watch ./pages",
 		"update": "ncu -u && pnpm install",
 		"build": "next build",

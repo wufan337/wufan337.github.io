@@ -60,6 +60,20 @@
       ]
     ]
   },
+  "/blog/posts/2026/01/16": {
+    "path": "pages\\blog\\posts\\2026\\01\\16.mdx",
+    "frontmatter": {},
+    "breadcrumbs": [
+      [
+        "/",
+        "Wufan337's Homepage"
+      ],
+      [
+        "/blog",
+        "Blog"
+      ]
+    ]
+  },
   "/example": {
     "path": "pages\\example.mdx",
     "frontmatter": {

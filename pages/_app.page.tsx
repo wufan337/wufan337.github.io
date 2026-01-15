@@ -61,7 +61,7 @@ export default function App({ Component, pageProps, router, ...d }: AppProps) {
         <link rel="icon" href="/favicon.ico" type="image/x-icon" />
         {/* ✅ Next.js automatically injects the compiled CSS here. Do not add <link rel="stylesheet"> manually. */}
         <title>{pageTitle}</title>
-        <meta name="google-site-verification" content="6uW4e_9-NPFLASD-TLV4cjbbNOb9lptKjdJB8ibxsmg" />
+        <meta name="google-site-verification" content="DPGmGE1gmI616ucOuxz0hyikYKyS1rDtNKYGQZG8Ltw" />
         <meta property="og:title" content={pageTitle} />
         <meta property="og:description" content={fm?.["description"] || ""} />
         <meta property="og:url" content={"https://wufan337.github.io" + router.pathname} />
